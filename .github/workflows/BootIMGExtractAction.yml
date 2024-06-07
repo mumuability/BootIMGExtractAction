@@ -6,7 +6,7 @@ on:
       rom_url:
         description: 'ROM 下载直链'
         required: true
-        default: 'https://mirrorbits.lineageos.org/full/tissot/20230425/lineage-19.1-20230425-nightly-tissot-signed.zip'
+        default: 'https://bn.d.miui.com/OS1.0.24.6.3.DEV/miui_FUXI_OS1.0.24.6.3.DEV_2d4b73e896_14.0.zip'
 
 
 jobs:
